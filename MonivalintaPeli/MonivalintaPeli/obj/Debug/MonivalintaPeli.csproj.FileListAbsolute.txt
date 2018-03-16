@@ -1,0 +1,9 @@
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\bin\Debug\MonivalintaPeli.exe.config
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\bin\Debug\MonivalintaPeli.exe
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\bin\Debug\MonivalintaPeli.pdb
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.csprojResolveAssemblyReference.cache
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.Form1.resources
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.Properties.Resources.resources
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.csproj.GenerateResource.Cache
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.exe
+c:\users\p119992\documents\visual studio 2015\Projects\MonivalintaPeli\MonivalintaPeli\obj\Debug\MonivalintaPeli.pdb
